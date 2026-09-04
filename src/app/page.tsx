@@ -14,7 +14,7 @@ const stats = [
 
 const mangoes = [
   {
-    name: "愛文芒果",
+    name: "愛文芒果促銷",
     en: "Irwin Mango",
     origin: "台南 玉井",
     season: "5 – 8 月",
