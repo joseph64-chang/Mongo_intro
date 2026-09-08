@@ -128,7 +128,7 @@ export default function Home() {
             <h1 className="mt-6 font-serif text-5xl leading-[1.15] text-ink sm:text-6xl lg:text-7xl">
               臺灣的夏天，
               <br />
-              藏在<span className="text-accent-warm">一顆芒果</span>裡
+              藏在<span className="text-accent-warm">一顆芒果666</span>裡
             </h1>
             <p className="mt-8 max-w-md text-base leading-relaxed text-ink/70">
               我們專注一件事：把台南玉井、屏東枋山最好的芒果，
